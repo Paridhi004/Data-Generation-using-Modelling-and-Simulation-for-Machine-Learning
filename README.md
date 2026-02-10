@@ -88,7 +88,7 @@ Models were evaluated using:
 | XGBoost                  | 1.93198 |  15.7427 |  0.92121  |
 | LightGBM                 | 1.89735 |  12.4376 |  0.937752 |
 
-Best Performing Model: Random Forest Regressor
+Best Performing Model: Random Forest Regressor and MLPRegressor
 
 ## 10. Result Graphs
 
